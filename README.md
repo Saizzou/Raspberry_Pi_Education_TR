@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">Raspberry Pi Egitim Serisi</h1>
-<img align="center" alt="Görünüm" src="IMG/Screenshot.png" >
+<img align="center" alt="Görünüm" src="IMG/image.jpg" >
 </div>
 <br>
 
