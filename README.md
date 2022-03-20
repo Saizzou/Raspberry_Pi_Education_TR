@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <strong>Java ile hazirlanmis Snake Oyunu</strong>
+  <strong>Raspberry Pi Egitim Serisi</strong>
   <br>
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Saizzou/Raspberry_Pi_Education_TR/">
   <a href="https://github.com/Saizzou/Raspberry_Pi_Education_TR//graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Saizzou/Raspberry_Pi_Education_TR/"></a>
