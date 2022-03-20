@@ -29,14 +29,21 @@ Youtube kanalimizda yaptigimiz Raspberry Pi Serisi icerisindeki tüm Kodlar ve P
 
 4- Temel Python Bilgisi
 
-### Projeyi calistirma ve inceleme:
-
-Projeyi calistirmak icin : Wiring Pi kütüphanesine ihtiyaciniz vardir. Bunun icin Raspberry Pi icerisinde su komutlari kullanin:
+5- 
 ```
 $ sudo apt update
 $ git clone https://github.com/WiringPi/WiringPi
 $ cd WiringPi
 $ ./build
+```
+
+### Projeyi calistirma ve inceleme:
+
+Projeyi calistirmak icin : Wiring Pi kütüphanesine ihtiyaciniz vardir. Bunun icin Raspberry Pi icerisinde su komutlari kullanin:
+```
+$ git clone https://github.com/Saizzou/Raspberry_Pi_Education_TR
+$ cd Raspberry_Pi_Education_TR
+$ ./*PROJE_KONUSU*/*PROJE_ADI.py*
 ```
 ### PR:
 Bug yada hata bulmaniz durumunda PR kabul edilir. Simdiden tesekkür ederim :)
